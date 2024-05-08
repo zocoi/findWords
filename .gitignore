@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript configuration
+*.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# Dependency lock files
+package-lock.json
+yarn.lock
